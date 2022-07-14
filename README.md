@@ -19,6 +19,7 @@
 <img src=“https://github.com/ykcha0608/Scoring-Risk-from-Drivers-Lane-Change-Video/issues/2#issue-1304789482” style="width:200px">
 </img>
 
+![compressed_safe 0 58](https://user-images.githubusercontent.com/93107210/178995797-129dda5d-6d98-484a-9177-d6b08751947d.gif)
 
 
 ## 학습에서 중요한 요소
@@ -27,3 +28,15 @@
 * 차선 변경 시 옆 차선에 차가 있는가
 * 차선 변경 시 앞 차와의 간격이 가까운가
 
+## 모델
+
+# Detectron2 (Mask-RCNN)
+Mask-RCNN 구조를 활용한 Detectron2를 활용하여 Instance Segmentation
+
+# CNN-LSTM
+CNN-LSTM 모델을 통해 데이터의 공간적 특성과 시계열 특성을 학습
+
+## 데이터
+* UC Berkeley Deep Dive Dataset의 차선 변경 관련 영상 135개 선정
+* 5명의 팀원이 주행자의 차선 변경을 안전/위험으로 Labeling & Scoring
+* OpenCV를 이용하여 Frame 이미지로 변환
