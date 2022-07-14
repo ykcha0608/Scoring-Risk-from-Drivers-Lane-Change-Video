@@ -18,6 +18,8 @@
 <p align = “center”>
 <img src = “![compressed_KakaoTalk_20220714](https://user-images.githubusercontent.com/93107210/178989887-1e506f12-beea-4266-9140-aff5b508ea41.gif)”>
 </p>
+![compressed_KakaoTalk_20220714](https://user-images.githubusercontent.com/93107210/178991122-4f250801-9e9f-41e0-a6bf-8c3e741c89f3.gif)
+
 
 ## 학습에서 중요한 요소
 * 주변에 차가 많은가
