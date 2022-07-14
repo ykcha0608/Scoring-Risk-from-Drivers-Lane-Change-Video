@@ -19,4 +19,9 @@
 <img src = “![compressed_KakaoTalk_20220714](https://user-images.githubusercontent.com/93107210/178989887-1e506f12-beea-4266-9140-aff5b508ea41.gif)”>
 </p>
 
+## 학습에서 중요한 요소
+* 주변에 차가 많은가
+* 주변에 보행자가 많은가
+* 차선 변경 시 옆 차선에 차가 있는가
+* 차선 변경 시 앞 차와의 간격이 가까운가
 
