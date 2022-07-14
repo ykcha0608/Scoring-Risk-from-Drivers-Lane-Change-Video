@@ -13,10 +13,12 @@
  
 ## 차선 변경 영상에서 위험도 추출
 <p align = “center”>
-<img src = “[Example1](https://github.com/ykcha0608/Scoring-Risk-from-Drivers-Lane-Change-Video/issues/1#issue-1304787861)”>
+<img src = “https://github.com/ykcha0608/Scoring-Risk-from-Drivers-Lane-Change-Video/issues/1#issue-1304787861” style = "width: 200px">
+</img>
 </p>
 <p align = “center”>
-<img src = “[Example 2](https://github.com/ykcha0608/Scoring-Risk-from-Drivers-Lane-Change-Video/issues/2#issue-1304789482)”>
+<img src = “https://github.com/ykcha0608/Scoring-Risk-from-Drivers-Lane-Change-Video/issues/2#issue-1304789482” style="width:200px">
+</img>
 </p>
 
 
