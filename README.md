@@ -13,13 +13,11 @@
  
 ## 차선 변경 영상에서 위험도 추출
 
-<img src=“https://github.com/ykcha0608/Scoring-Risk-from-Drivers-Lane-Change-Video/issues/1#issue-1304787861” style="width:200px">
-</img>
-
-<img src=“https://github.com/ykcha0608/Scoring-Risk-from-Drivers-Lane-Change-Video/issues/2#issue-1304789482” style="width:200px">
-</img>
+아래 두 예시는 각각 차선 변경 시 위험도를 보여주는 영상입니다. 첫 번째는 위험도 0.41, 두 번째는 위험도 0.31로 측정되었습니다.
 
 ![compressed_safe 0 58](https://user-images.githubusercontent.com/93107210/178995797-129dda5d-6d98-484a-9177-d6b08751947d.gif)
+
+![safe 0 68](https://user-images.githubusercontent.com/93107210/178995930-6042e342-fbae-4c4a-964b-eac8faba80d7.gif)
 
 
 ## 학습에서 중요한 요소
