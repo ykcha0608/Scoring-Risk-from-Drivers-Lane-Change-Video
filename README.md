@@ -13,12 +13,11 @@
  
 ## 차선 변경 영상에서 위험도 추출
 <p align = “center”>
-<img src = “![KakaoTalk_20220714_212049854](https://user-images.githubusercontent.com/93107210/178989958-61950959-6b82-47f4-878e-b51800469a6e.gif)”>
+<img src = “https://github.com/ykcha0608/Scoring-Risk-from-Drivers-Lane-Change-Video/issues/1#issue-1304787861”>
 </p>
 <p align = “center”>
 <img src = “![compressed_KakaoTalk_20220714](https://user-images.githubusercontent.com/93107210/178989887-1e506f12-beea-4266-9140-aff5b508ea41.gif)”>
 </p>
-![compressed_KakaoTalk_20220714](https://user-images.githubusercontent.com/93107210/178991122-4f250801-9e9f-41e0-a6bf-8c3e741c89f3.gif)
 
 
 ## 학습에서 중요한 요소
