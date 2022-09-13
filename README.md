@@ -34,7 +34,7 @@ Implemented instance segmentation on each frames of videos leveraging Detectron2
 # CNN-LSTM
 The model learned spatial and time-series characteristics of the data through CNN-LSTM model
 
-## 데이터
+## Data
 * Picked 135 lane changing video from UC Berkeley Deep Dive Dataset
 * Each of the team members labeled and scored the videos with risk score from 1(safe) to 5(dangerous)
 * Utilized Mask RCNN which was trained with Microsoft COCO2017 Dataset in Detectron2
