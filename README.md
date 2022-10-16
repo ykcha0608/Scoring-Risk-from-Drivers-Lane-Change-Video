@@ -1,8 +1,8 @@
 # Scoring-Risk-from-Drivers-Lane-Change-Video
 
 ## Team members
-* Suwoong Yeom
 * Yukyung Cha
+* Suwoong Yeom
 * Jiwoo Kang
 * Doyoung Lee
 * Boyoung Lee
